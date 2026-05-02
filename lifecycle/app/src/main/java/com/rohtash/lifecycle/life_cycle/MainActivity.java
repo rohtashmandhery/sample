@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import com.rohtash.lifecycle.R;
 
+// dummy text added to update
 public class MainActivity extends AppCompatActivity {
     TextView helloTV;
 
