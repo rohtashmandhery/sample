@@ -11,6 +11,8 @@ import android.widget.TextView;
 import com.rohtash.lifecycle.R;
 
 // added chnage in this on main branch
+
+// dummy text added to update
 public class MainActivity extends AppCompatActivity {
     TextView helloTV;
 
