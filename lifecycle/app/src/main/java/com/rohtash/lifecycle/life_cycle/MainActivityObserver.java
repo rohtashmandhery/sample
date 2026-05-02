@@ -6,6 +6,8 @@ import androidx.lifecycle.Lifecycle;
 import androidx.lifecycle.LifecycleObserver;
 import androidx.lifecycle.OnLifecycleEvent;
 
+//sfsdfjshdjfhkjs
+//dgfdgdf
 
 public class MainActivityObserver implements LifecycleObserver {
 
