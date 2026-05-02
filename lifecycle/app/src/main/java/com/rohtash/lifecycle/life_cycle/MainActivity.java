@@ -13,6 +13,8 @@ import com.rohtash.lifecycle.R;
 // added chnage in this on main branch
 
 // dummy text added to update
+
+// MAIN CHNAGE ONE 
 public class MainActivity extends AppCompatActivity {
     TextView helloTV;
 

@@ -7,6 +7,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.rohtash.lifecycle.R;
+// UPDATED FOR  MAIN BRANCH
 
 public class SecondActivity extends AppCompatActivity {
 
