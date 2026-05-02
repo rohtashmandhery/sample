@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.rohtash.lifecycle.R;
 
+//Update in feat
 public class SecondActivity extends AppCompatActivity {
 
 
