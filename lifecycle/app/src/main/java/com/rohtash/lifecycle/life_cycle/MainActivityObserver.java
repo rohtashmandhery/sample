@@ -7,10 +7,6 @@ import androidx.lifecycle.LifecycleObserver;
 import androidx.lifecycle.OnLifecycleEvent;
 
 
-// UPDATED IN THE MAIN BRANCH
-
-//Update in feat
-
 public class MainActivityObserver implements LifecycleObserver {
 
     String TAG = MainActivityObserver.class.getName();
