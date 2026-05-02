@@ -1,5 +1,8 @@
 package com.rohtash.lifecycle.liveData;
 
+
+// updated in main
+
 public class DataModel {
     String randomNumber;
 

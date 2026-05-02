@@ -7,6 +7,9 @@ import androidx.lifecycle.ViewModel;
 
 import java.util.Random;
 
+
+// updated in main
+
 public class LiveDataViewModel extends ViewModel {
     private MutableLiveData<DataModel> mutableLiveData;
 
